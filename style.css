@@ -1,5 +1,9 @@
-h1 {
-  color: lawngreen;
+#titulo {
+  color: purple;
   font-size: 85px;
   text-align: center;
+  text-shadow: 2px 2px salmon;
+}
+#linea1 {
+  background-color: yellow;
 }
